@@ -17,5 +17,5 @@ Mô hình được huấn luyện trên dữ liệu **MIT-BIH Arrhythmia Databas
 ### Mở notebook
 
 Click vào link dưới đây để mở notebook trên Google Colab:
-Mở `LeThiXuanMay_52100298.ipynb` trên Google Colab, thay đổi đường dẫn đến shapelet thư mục shapelet_info và data cho từng case và chạy Ctrl/Command +F9
+Mở `main.ipynb` trên Google Colab, thay đổi đường dẫn đến shapelet thư mục shapelet_info và data cho từng case và chạy Ctrl/Command +F9
 
